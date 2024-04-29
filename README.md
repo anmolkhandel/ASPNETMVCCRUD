@@ -1,5 +1,7 @@
 # ASPNETMVCCRUD
 
+ASP.NET Core MVC CRUD - .NET 6 MVC CRUD Operations Using Entity Framework Core and SQL Server
+
 Index Page
 ![image](https://github.com/anmolkhandel/ASPNETMVCCRUD/assets/166121811/d032e30a-8dbc-43d1-a2a2-01793ca7f13f)
 
